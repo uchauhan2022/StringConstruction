@@ -9,8 +9,8 @@ Returns the cost to make a string p from a given string s
 
 
 
-def stringConstruction(s):			#'s' is the test string
-    
+def stringConstruction():			#'s' is the test string
+    s = input("enter the string")
     price=0
     x=''
     c=0
