@@ -1,3 +1,14 @@
+"""
+Returns the cost to make a string p from a given string s
+
+
+	Cost to append a new character is 1
+	No cost to append a substring of p
+
+"""
+
+
+
 def stringConstruction(s):			#'s' is the test string
     
     cost=0
